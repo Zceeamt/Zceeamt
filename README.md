@@ -2,7 +2,7 @@
 
 Electronic and Electrical Engineering student at UCL building embedded systems from schematic to working hardware. My work covers multilayer PCB design, STM32 systems, FPGA development, power electronics, mechanical design and hardware validation, with a particular interest in robotics.
 
-[Engineering portfolio](https://zceeamt.github.io) · [Email](mailto:abdulamt026@icloud.com)
+[Engineering portfolio](https://zceeamt.github.io) · [LinkedIn](https://www.linkedin.com/in/abdulhakim-amtouti-85b795283/) · [Email](mailto:abdulamt026@icloud.com)
 
 ## Featured engineering projects
 
