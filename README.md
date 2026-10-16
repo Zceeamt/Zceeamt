@@ -7,7 +7,7 @@ Electronic and Electrical Engineering student at UCL building embedded systems f
 ## Featured engineering projects
 
 - **[Custom STM32 drone flight controller](https://github.com/Zceeamt/custom-stm32-drone-flight-controller)**  
-  Designed, assembled and brought up a four-layer STM32H743 flight-controller PCB with an ICM-42688-P IMU, DPS368 barometer, USB-C, SWD and motor interfaces. Integrated it with a custom PLA/TPU airframe, configured Betaflight and completed outdoor flight testing.
+  Designed, assembled and brought up a four-layer STM32H743 flight-controller PCB with an ICM-42688-P IMU, DPS368 barometer, USB-C, SWD and motor interfaces. Flashed and configured the assembled board using Betaflight, integrated it with a PLA/TPU airframe and completed outdoor flight testing.
 
 - **[AM32 sensorless BLDC ESC PCB layout](https://github.com/Zceeamt/four-layer-bldc-esc)**
   Translated the AM32 reference schematic into a four-layer KiCad layout, resolving high-current phase routing, mixed-signal separation, grounding and thermal management around the STM32F051 and DRV8300 power stage.
