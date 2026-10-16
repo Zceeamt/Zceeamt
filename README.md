@@ -9,8 +9,8 @@ Electronic and Electrical Engineering student at UCL building embedded systems f
 - **[Custom STM32 drone flight controller](https://github.com/Zceeamt/custom-stm32-drone-flight-controller)**  
   Designed, assembled and brought up a four-layer STM32H743 flight-controller PCB with an ICM-42688-P IMU, DPS368 barometer, USB-C, SWD and motor interfaces. Integrated it with a custom PLA/TPU airframe, configured Betaflight and completed outdoor flight testing.
 
-- **[Four-layer BLDC electronic speed controller](https://github.com/Zceeamt/four-layer-bldc-esc)**  
-  Designed a four-layer sensorless three-phase ESC around an STM32F051 and DRV8300 gate driver, including the MOSFET power stage, back-EMF sensing, current measurement and board-level power architecture.
+- **[AM32 sensorless BLDC ESC PCB layout](https://github.com/Zceeamt/four-layer-bldc-esc)**
+  Translated the AM32 reference schematic into a four-layer KiCad layout, resolving high-current phase routing, mixed-signal separation, grounding and thermal management around the STM32F051 and DRV8300 power stage.
 
 - **[FPGA UART transmitter](https://github.com/Zceeamt/fpga-uart-transmitter)**  
   Implemented an 8N1 UART transmitter in SystemVerilog for a Cyclone IV FPGA and verified its output in hardware with an Arduino receiver.
